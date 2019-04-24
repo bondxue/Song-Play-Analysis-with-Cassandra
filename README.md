@@ -1,6 +1,8 @@
 # Song-Play-Analysis-with-Cassandra
 Udacity Data Engineering ND project 2
 
+[![Project passed](https://img.shields.io/badge/project-passed-success.svg)](https://img.shields.io/badge/project-passed-success.svg)
+
 ## Summary
 * [Purpose of project](#Purpose-of-project)
 * [Dataset](#Dataset)
